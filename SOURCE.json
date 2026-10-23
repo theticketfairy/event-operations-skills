@@ -1,0 +1,72 @@
+{
+  "source_repository": "https://github.com/theticketfairy/agent-skills",
+  "source_commit": "186567788b4881e5c37fadc69132756dd3c02bda",
+  "uncommitted_source": false,
+  "skills": [
+    {
+      "name": "manage-orders-and-refunds",
+      "source_path": "skills/manage-orders-and-refunds/SKILL.md",
+      "sha256": "8abfbaa4da6c53d50b187f8cb3342f1899478de2db5901831ab3ac901caa5066"
+    },
+    {
+      "name": "manage-invitations-and-guest-lists",
+      "source_path": "skills/manage-invitations-and-guest-lists/SKILL.md",
+      "sha256": "1236a7816bc059e68ff7322de652bdaaab1ea9b8f1cea6d21111b7f0c5d5ead7"
+    },
+    {
+      "name": "read-event-reports",
+      "source_path": "skills/read-event-reports/SKILL.md",
+      "sha256": "06dbcc2ecdb25cd22098964ed30e26087ad972437c1a78925d3e54b268cf942d"
+    },
+    {
+      "name": "run-door-check-in",
+      "source_path": "skills/run-door-check-in/SKILL.md",
+      "sha256": "13721ee205b3effd3653db01d8476fdd5dd75f2f71f0f0f64b4ca053a4084822"
+    },
+    {
+      "name": "get-paid-for-ticket-sales",
+      "source_path": "skills/get-paid-for-ticket-sales/SKILL.md",
+      "sha256": "88d01b84b5887c8b5cd537a3712b09a8e974b5be75e2f04d17ac369ac3fafff9"
+    },
+    {
+      "name": "use-vault-and-capital",
+      "source_path": "skills/use-vault-and-capital/SKILL.md",
+      "sha256": "8bb546ef29adb2476a81efddafc41e1bc7a5429ea73f1d3d5536e2cc0d8a8a2b"
+    },
+    {
+      "name": "run-event-production",
+      "source_path": "skills/run-event-production/SKILL.md",
+      "sha256": "60a7a35d3454b8f552483b557e2f0e0e3c9a2b825b1d2dc02434a78e7d14964c"
+    },
+    {
+      "name": "run-crew-and-volunteers",
+      "source_path": "skills/run-crew-and-volunteers/SKILL.md",
+      "sha256": "3cd8fc4ad1b53eb26f2dc02566c1d5b619ec16d9badbeacb0fcc0ce0b7119ca7"
+    },
+    {
+      "name": "run-event-accreditation",
+      "source_path": "skills/run-event-accreditation/SKILL.md",
+      "sha256": "2a31b99157496cd9425b0f1b55aa88caa8f11af044670b21b6d16844c8452ee0"
+    },
+    {
+      "name": "manage-traders-and-exhibitors",
+      "source_path": "skills/manage-traders-and-exhibitors/SKILL.md",
+      "sha256": "2a00d3dedd913d78c346c37e37a797e4e222c6bb68ae35e8009243aa5b3483ee"
+    },
+    {
+      "name": "run-the-site-and-safety",
+      "source_path": "skills/run-the-site-and-safety/SKILL.md",
+      "sha256": "6d01c9e53316e7851356ea593e7cb0b4e81c124b1327f6cc6d250cd5f0d9ca41"
+    },
+    {
+      "name": "solve-ticketing-problems",
+      "source_path": "skills/solve-ticketing-problems/SKILL.md",
+      "sha256": "f75f6117c1a292428c77c32ffa8786fc3d28b644e3f4e2ad8027ad381a73357c"
+    },
+    {
+      "name": "work-with-fai",
+      "source_path": "skills/work-with-fai/SKILL.md",
+      "sha256": "3b36ad27cc3a64641507e10a45354717e1bdfc1f149cf6db5610c23de375ac56"
+    }
+  ]
+}
